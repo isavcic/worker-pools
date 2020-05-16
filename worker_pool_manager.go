@@ -4,7 +4,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/diegobernardes/ttlcache"
+	"github.com/ReneKroon/ttlcache"
 )
 
 // WorkerPoolManager - Self-expiring, lazily constructed map of fixed-size worker pools safe for concurrent use
